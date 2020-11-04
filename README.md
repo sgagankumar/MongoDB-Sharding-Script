@@ -17,4 +17,4 @@ By default the script creates a 3 replica set MongoDB Sharding Server.
 ## SAMPLE:
 Folder structure of Sharding Server
 <br>
-<div><img src="SAMPLE.JPG" alt="Sample Folder Structure" width=70%/></div>
+<div><img src="Sample.JPG" alt="Sample Folder Structure" width=70%/></div>
